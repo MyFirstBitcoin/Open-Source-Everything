@@ -17,6 +17,8 @@ The idea of “unconference” is not new. Imagine a safe place where like-value
 ## 📝 SOP (Standard Operating Procedures)
 In the “SOP” folder, you will find recommended steps for planning and executing an unconference event. This will be updated with each event held.
 
+- [SOP Folder](https://github.com/MyFirstBitcoin/OS-Everything/tree/main/Unconference/SOP)
+
 Topics covered in the SOP include:
 - Preparation
 - Roles & Responsibilities
