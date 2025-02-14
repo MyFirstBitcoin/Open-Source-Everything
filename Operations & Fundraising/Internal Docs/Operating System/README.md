@@ -19,7 +19,7 @@ Implementation of this operating system follows a spiraling process rather than 
 4. [**Weekly 1:1s**: Implement structured individual check-ins](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/6a0609b9c863b2a5554aa901c329072a400fbe56/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%204%3A%20Weekly%201%3A1s)
 5. [**Accountability Chart**: Define roles and responsibilities](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/27220ef2014e294788914327af254a668cda3aed/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%205%3A%20Accountability%20Chart)
 6. [**Scope of Work**: Create detailed job descriptions](https://github.com/MyFirstBitcoin/Open-Source-Everything/blob/0d5880327c7bc48e28437eaa808197ed0b8851eb/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%206%3A%20Scope%20of%20Work%20Documents%20(SOW)/README.md)
-7. [**OKRs**: Set objectives and key results for each role]()
+7. [**OKRs**: Set objectives and key results for each role](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/5f9569983f7c56e7dc63e6035e4d0b14c0596990/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%207%3A%20OKRs%20(Objectives%20and%20Key%20Results))
 8. [**Scorecard**: Track key metrics weekly]()
 9. [**Team Member Analyzer**: Evaluate performance and alignment]()
 10. [**Standard Operating Procedures**: Document key processes]()
