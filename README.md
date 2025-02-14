@@ -22,9 +22,3 @@ Feel free to:
 - Adapt them to your needs
 - Contribute improvements
 - Share with others
-
-## Contributing
-We welcome contributions from the community. If you have suggestions for improvements or would like to share your adaptations, please:
-1. Fork the repository
-2. Make your changes
-3. Submit a pull request
