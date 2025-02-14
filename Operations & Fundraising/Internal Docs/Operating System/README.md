@@ -4,7 +4,6 @@
 The My First Bitcoin Operating System is a comprehensive framework that we use to run our organization. We created this system to ensure clarity, accountability, and effective execution across our team. By open-sourcing it, we aim to help other organizations, particularly those in the Bitcoin education space, develop strong operational foundations.
 
 ## The Spiraling Process
-[DIAGRAM PLACEHOLDER]
 
 Implementation of this operating system follows a spiraling process rather than a linear one. Think of it as an upward spiral where each rotation through the steps builds upon and refines the previous iteration. This allows organizations to:
 - Start with basic versions of each component
