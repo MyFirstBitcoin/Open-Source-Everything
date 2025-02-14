@@ -8,7 +8,6 @@ As part of our commitment to open source principles, we're sharing the tools, pr
 
 ## What You'll Find Here
 1. **Operating System**: Our 10-step process for running an effective organization
-2. 
 
 ## How to Use These Resources
 Each folder contains:
