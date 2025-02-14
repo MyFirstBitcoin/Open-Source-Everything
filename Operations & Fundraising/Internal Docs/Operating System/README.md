@@ -22,7 +22,7 @@ Implementation of this operating system follows a spiraling process rather than 
 7. [**OKRs**: Set objectives and key results for each role](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/5f9569983f7c56e7dc63e6035e4d0b14c0596990/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%207%3A%20OKRs%20(Objectives%20and%20Key%20Results))
 8. [**Scorecard**: Track key metrics weekly](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/fe52987eeb030fed4e4c41566918f2346ccd9fc3/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%208%3A%20Scorecard)
 9. [**Team Member Analyzer**: Evaluate performance and alignment](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/fef90779ef8208d4a918944c9017ddb5d58927ef/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%209%3A%20Team%20Member%20Analyzer)
-10. [**Standard Operating Procedures**: Document key processes]()
+10. [**Standard Operating Procedures**: Document key processes](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/f187547747cc4f0547e2321e012cec16ea628210/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%2010%3A%20Standard%20Operating%20Procedures)
 
 ## Implementation Guide
 - Expected timeline: 1-2 years for full implementation
