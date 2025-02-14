@@ -14,7 +14,7 @@ Implementation of this operating system follows a spiraling process rather than 
 - Learn and adjust as the organization grows
 
 ## The 10 Steps
-1. **Annual Vision Plan**: Define clear organizational direction and goals
+1. [**Annual Vision Plan**: Define clear organizational direction and goals](https://github.com/MyFirstBitcoin/OS-Everything/tree/587f25002295ed3cdc5b92344e4012db8119de0b/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%201%3A%20Annual%20Vision%20Plan)
 2. **Document Repository**: Create organized storage for all documents
 3. **Weekly Team Meetings**: Establish regular proof-of-work sharing
 4. **Weekly 1:1s**: Implement structured individual check-ins
