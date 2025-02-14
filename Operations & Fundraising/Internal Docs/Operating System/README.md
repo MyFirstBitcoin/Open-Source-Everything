@@ -5,7 +5,8 @@ The My First Bitcoin Operating System is a comprehensive framework that we use t
 
 ## The Spiraling Process
 
-Implementation of this operating system follows a spiraling process rather than a linear one. Think of it as an upward spiral where each rotation through the steps builds upon and refines the previous iteration. This allows organizations to:
+Implementation of this operating system follows a spiraling process rather than a linear one. Think of it as an upward spiral where each rotation through the steps builds upon and re
+fines the previous iteration. This allows organizations to:
 - Start with basic versions of each component
 - Continuously improve based on experience
 - Adapt to changing needs
@@ -34,4 +35,3 @@ Implementation of this operating system follows a spiraling process rather than 
 
 ## Templates
 Each step includes downloadable templates that you can adapt for your organization. Find these in the templates folder within each step.
-
