@@ -1,4 +1,4 @@
-# OS-Everything# My First Bitcoin: Open Source Everything
+# My First Bitcoin: Open Source Everything
 
 ## About My First Bitcoin
 My First Bitcoin provides open-source Bitcoin education that is independent, impartial, and community-led. We operate in El Salvador and have created a network of 60+ Bitcoin education projects in 30+ countries that use our resources.
