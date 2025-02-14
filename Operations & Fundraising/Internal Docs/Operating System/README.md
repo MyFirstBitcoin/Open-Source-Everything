@@ -18,7 +18,7 @@ Implementation of this operating system follows a spiraling process rather than 
 3. [**Weekly Team Meetings**: Establish regular proof-of-work sharing](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/d349cdc5c1115de768b87861d1d5c678cbf3f5e8/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%203%3A%20Weekly%20Team%20Meetings%20(POW))
 4. [**Weekly 1:1s**: Implement structured individual check-ins](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/6a0609b9c863b2a5554aa901c329072a400fbe56/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%204%3A%20Weekly%201%3A1s)
 5. [**Accountability Chart**: Define roles and responsibilities](https://github.com/MyFirstBitcoin/Open-Source-Everything/tree/27220ef2014e294788914327af254a668cda3aed/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%205%3A%20Accountability%20Chart)
-6. [**Scope of Work**: Create detailed job descriptions]()
+6. [**Scope of Work**: Create detailed job descriptions](https://github.com/MyFirstBitcoin/Open-Source-Everything/blob/0d5880327c7bc48e28437eaa808197ed0b8851eb/Operations%20%26%20Fundraising/Internal%20Docs/Operating%20System/Step%206%3A%20Scope%20of%20Work%20Documents%20(SOW)/README.md)
 7. [**OKRs**: Set objectives and key results for each role]()
 8. [**Scorecard**: Track key metrics weekly]()
 9. [**Team Member Analyzer**: Evaluate performance and alignment]()
