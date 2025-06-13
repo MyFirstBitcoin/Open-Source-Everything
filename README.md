@@ -1,23 +1,26 @@
-# My First Bitcoin: Open Source Everything
+# 🌍 Open-Source Everything
 
-## About My First Bitcoin
-My First Bitcoin provides open-source Bitcoin education that is independent, impartial, and community-led. We operate in El Salvador and have created a network of 60+ Bitcoin education projects in 30+ countries that use our resources.
+📚 **My First Bitcoin** provides open-source Bitcoin education that is absolutely independent, impartial, and community-led.  
 
-## About This Repository
-As part of our commitment to open source principles, we're sharing the tools, processes, and resources we've developed. Our goal is to help other organizations, particularly those focused on Bitcoin education, build strong foundations and scale their impact.
+We operate both in El Salvador and on a global level – and have created a so-called [**Node Network**](https://myfirstbitcoin.io/node-network-dashboard/) of **64+ Bitcoin education projects** in **36+ countries** that use our resources.
 
-## What You'll Find Here
-1. **Operating System**: Our 10-step process for running an effective organization
+---
 
-## How to Use These Resources
-Each folder contains:
-- Detailed documentation
-- Templates
-- Examples
-- Implementation guides
+## 📁 About This Repository  
+### 🛠️ Open Tools for a Shared Mission
 
-Feel free to:
-- Use these resources as they are
-- Adapt them to your needs
-- Contribute improvements
-- Share with others
+As part of our commitment to open-source principles, we're not building for ourselves – we're building for everyone and everywhere.  
+
+We're openly sharing the tools, frameworks, and resources we've developed so that other organizations, educators, and communities can **learn, adapt, and scale their own impact** in Bitcoin education in their own communities worldwide.
+
+💬 Because we believe in **collaboration over competition**.  
+⚡ Competition is fiat. ₿ Bitcoin is a collaboration.
+
+💡 That’s why we say: **Open Source Everything**.  
+
+---
+
+Together, we can create a future where Bitcoin knowledge is **freely available**, **community-led**, and **globally impactful**.  
+🧱 One block at a time.  
+👤 One individual at a time.  
+🏘️ One community at a time.
